@@ -1,0 +1,4 @@
+Id=1&Name=Магадаскар&Duration=100&Price=10&Genre=mult&Discription=For kids&Start=2024-02-28 18:00:00
+Id=2&Name=Теория всего&Duration=150&Price=20&Genre=fantasy&Discription=Family&Start=2024-03-03 18:00:00
+Id=3&Name=Бандиты&Duration=130&Price=20&Genre=action&Discription=18+&Start=2024-03-04 15:30:00
+Id=4&Name=Магадаскар&Duration=300&Price=300&Genre=comedy&Discription=Семейный&Start=2024-02-26 20:35:11
